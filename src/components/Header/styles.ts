@@ -7,6 +7,7 @@ padding: 2.5rem 0 7.5rem;
 `
 export const HeaderContent = styled.header`
   width: 100%;
+
   max-width: 1120px;
   margin: 0 auto;
   padding: 0 1.5rem;
